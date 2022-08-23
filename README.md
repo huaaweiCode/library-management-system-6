@@ -1,41 +1,82 @@
-# 图书馆管理系统6
+# 图书馆管理系统
 
-#### 介绍
+## 获取方式
+
+扫描下方，回复关键词  ：**图书馆6** ，获取完整版源码
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
+## 1、项目介绍
+
 图书馆管理系统6拥有三种角色：超级管理员、管理员、用户
 
 管理员：图书管理、类别管理、读者管理、借阅管理、还书延期、归还记录、反馈管理等
 
 用户：查看图书、借阅图书、登录注册、查看热门推荐和最佳读者、借阅历史、问题反馈等
 
-#### 软件架构
-软件架构说明
+
+## 2、项目技术
+
+后端框架： Servlet、mvc模式
+
+前端技术：jsp、css、JavaScript、JQuery
+
+## 3、开发环境
+
+- JAVA版本：JDK1.8
+- IDE类型：Eclipse
+- tomcat版本：Tomcat 7-10版本均可
+- 数据库类型：MySql（5.x和8.x版本都可） 
+- 硬件环境：Windows 或者 Mac OS
 
 
-#### 安装教程
+## 4、功能介绍
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 4.1 登录注册
 
-#### 使用说明
+![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111317931.jpg)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+![注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111317031.jpg)
 
-#### 参与贡献
+### 4.2 读者模块
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![用户-图书查询](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318012.jpg)
+
+![用户-借阅查询](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318013.jpg)
+
+![用户-借阅历史](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318495.jpg)
+
+![用户-问题反馈](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318386.jpg)
+
+### 4.3 管理员模块
+
+![管理员-图书管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318074.jpg)
+
+![管理员-读者管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318685.jpg)
+
+![管理员-分类管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318988.jpg)
+
+![管理员-借阅管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318520.jpg)
+
+![管理员-归还记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318312.jpg)
+
+![管理员-热门推荐](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318230.jpg)
+
+![管理员-最佳读者 ](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318583.jpg)
+
+![管理员-管理员管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318201.jpg)
+
+![管理员-反馈管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318170.jpg)
+
+### 4.4 文档目录
+
+![文档](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318432.jpg)
+
+## 5、获取方式
+
+扫描下方，回复关键词  ：**图书馆6** ，获取完整版源码
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
